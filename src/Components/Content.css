@@ -1,0 +1,22 @@
+.MyDragHandleClassName {
+  cursor: move;
+
+  display: inline;
+  line-height: 38px;
+  /* background: #61dafb; */
+  max-height: 480px; 
+
+}
+
+.react-grid-layout {
+  height: 165px;
+  border: 1px solid red;
+  width: 80%;
+  /* background-color: beige; */
+  
+
+}
+
+.react-grid-item {
+  background-color: lavender;
+}

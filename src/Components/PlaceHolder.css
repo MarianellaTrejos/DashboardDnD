@@ -1,0 +1,32 @@
+.buttonSave {
+
+    padding: 20px;
+    position: fixed;
+ 
+    top: 20px;
+    
+    right: 20px;
+  
+    padding: 10px 20px;
+  
+    background-color: #84DD63;
+ 
+    color: black;
+ 
+    border: none;
+    
+    border-radius: 5px;
+    
+    cursor: pointer;
+ 
+   
+}
+
+@media (max-width: 768px) {
+    .buttonSave{
+        top: 20px; 
+        right: 5px; 
+        padding: 5px 10px;
+    }
+}
+
